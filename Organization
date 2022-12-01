@@ -1,0 +1,40 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Merahi Village",
+  "alternateName": ["Merahi Village Official", "Merahi, Siwan", "Merahi 841240", "Merahi"], 
+  "url": "https://merahivillage.blogspot.com",
+  "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGSURxMEW-3K2wcAvTh1JfKrrfzGMZL4QSRzc4UQJVlEi3bUY178M_e2_iWJjTOkeFMH23ltpz4wDxn1f5r5AtYcQ8haiOGY-qjdnwtMkMPcgW2_-Gi2nuLPeLG7xhGhbzR4WKO5T9np3GGcjIC4Ppzm_nXgDGe7oG_yPKqEbkRqcOcDT7ejRaTa9_Gw/s782/merahi-village-official.png",
+ "foundingDate": "2022",
+ "founder": [
+ {
+ "@type": "Person",
+ "name": "Gitesh Sharma",
+ "url": "https://giteshgeeky.blogspot.com/p/about-us.html",
+ "image": "https://1.bp.blogspot.com/-ruCYEMmA--k/X8yFkTCDy8I/AAAAAAAANvA/8Dqjs-S7qhEVE_ACilXgDhZRzVTqTxt8ACLcBGAsYHQ/w320-h320/gitesh%2Bgeeky%2Bauthor.jpg",
+ "sameAs": [
+    "https://twitter.com/giteshsharma_",
+    "https://instagram.com/giteshsharma_",
+   "https://facebook.com/giteshsharma.gs"
+  ]
+ }
+ ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "info.giteshsharma+merahi@gmail.com", 
+    "contactType": "customer service",
+    "contactOption": "TollFree",
+    "areaServed": "IN",
+    "availableLanguage": ["Bihari","Hindi"]
+  },
+  "sameAs": [
+    "https://www.facebook.com/MerahiVillage",
+    "https://www.twitter.com/MerahiVillage",
+    "https://www.instagram.com/MerahiVillage",
+    "https://www.youtube.com/@MerahiVillage",
+    "https://www.linkedin.com/company/Merahi"
+  ]
+}
+</script>
+</div>
